@@ -1,0 +1,12 @@
+.profile-img {
+  border-radius: 25px;
+}
+
+.name:hover {
+  color: rgb(245, 9, 48);
+  transition: 0.15s;
+}
+
+.name {
+  font-weight: bold;
+}
